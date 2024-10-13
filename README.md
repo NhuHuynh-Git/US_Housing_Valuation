@@ -32,7 +32,7 @@ Before preprocessing and analysis, the following exploration tasks are performed
 In the phase of preprocessing, the following tasks are performed:
 1.	Variable (nominal and numeric) transformation 
 2.	Variable distribution investigation
-3.	Handling missing values 
+3.	Handling missing values (3 methods)
 4.	Multicollinearity check and dimension reduction
 
 ### Predictive Model Building
